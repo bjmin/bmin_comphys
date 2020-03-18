@@ -8,8 +8,11 @@
 
 * 사칙연산 : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-1.ipynb
 * 제어문 / 반복문 : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-2.ipynb
+* Math library : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-3.ipynb
+
 
 ## 참고자료
 * Python tutorial : https://docs.python.org/3/tutorial/
 * 점프 투 파이썬 : https://wikidocs.net/book/1
+* math library : https://docs.python.org/3/library/math.html
 
