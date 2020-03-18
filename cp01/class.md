@@ -8,3 +8,6 @@
 
 * Python tutorial : https://docs.python.org/3/tutorial/
 * 점프 투 파이썬 : https://wikidocs.net/book/1
+
+* 사칙연산 : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-1.ipynb
+* 제어문 / 반복문 : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-2.ipynb
