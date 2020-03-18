@@ -33,5 +33,4 @@ Computational Physics 1 (chungbuk national university, 2020)
 
 ## 목록
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp01/class.md
-2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp02/class.md
 
