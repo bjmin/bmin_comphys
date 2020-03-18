@@ -1,6 +1,11 @@
 # Computational Physics 1 (2020)
 Computational Physics 1 (chungbuk national university, 2020)
 
+이 과목에서는 전산 기법을 이용하여 물리 문제를 해결하는 방법을 배웁니다. 이를 위해 우선 컴퓨터 언어의 기초를 익히고
+간단한 응용 문제를 직접 해결해 봅니다. 
+
+강의는 수업과 실습을 병행하여 진행하며 실습을 진행하기 위해 아래의 사항을 확인하시기 바랍니다. 
+
 ## 파이썬(python) 설치
 
 이 강의에서는 컴퓨터 언어로 파이썬을 사용합니다. 따라서 개인용 컴퓨터에 
@@ -26,3 +31,5 @@ Computational Physics 1 (chungbuk national university, 2020)
 3. 다음의 튜토리얼을 해본다. https://guides.github.com/activities/hello-world/
 4. 다음의 플로우차트를 확인해 본다. https://guides.github.com/introduction/flow/
 
+## 강의 목록
+1. 첫번째 강의 
