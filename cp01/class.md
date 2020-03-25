@@ -8,7 +8,6 @@
 
 * 사칙연산 : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-1.ipynb
 * 조건문 / 반복문 : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-2.ipynb
-* Math library : https://github.com/bjmin/bmin_comphys/blob/master/cp01/comphys01-3.ipynb
 
 
 ## 참고자료
