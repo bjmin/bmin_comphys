@@ -1,12 +1,8 @@
 # 세 번째 강의 
 
-## list comprehension & lambda function
-
-## 문자열 
-
-## 디버깅
-
-## 좋은 코딩
+* list comprehension & lambda function
+* 문자열 
+* 디버깅
 
 
 ## 참고자료
