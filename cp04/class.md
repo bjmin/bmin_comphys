@@ -1,4 +1,4 @@
-# 세 번째 강의 
+# 네 번째 강의 
 
 * list comprehension & lambda function
 * 문자열 
