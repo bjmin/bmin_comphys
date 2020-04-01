@@ -1,10 +1,13 @@
 # 네 번째 강의 
 
-* list comprehension & lambda function
-* 문자열 
-* 디버깅
+* curve fitting
+* list comprehension
+* 자료형 
+* 에러
 
 
 ## 참고자료
-* Python tutorial : https://docs.python.org/3/tutorial/
+* curve fitting: https://docs.scipy.org/doc/scipy/reference/generated/scipy.optimize.curve_fit.html
+* list comprehension: https://docs.python.org/3/tutorial/datastructures.html
+* Python tutorial: https://docs.python.org/3/tutorial/
 * 점프 투 파이썬 : https://wikidocs.net/book/1
