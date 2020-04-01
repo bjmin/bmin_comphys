@@ -5,9 +5,12 @@
 ## matplotlib.pyplot
 
 * 파일 입출력 : https://github.com/bjmin/bmin_comphys/blob/master/cp03/comphys03-1.ipynb
-* 그래프
-* 그림
+* 그래프 : https://github.com/bjmin/bmin_comphys/blob/master/cp03/comphys03-2.ipynb
+
 
 ## 참고자료
-* Matplotlib pyplot tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+
+* Matplotlib pyplot: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
 * Matplotlib guide: https://matplotlib.org/users/index.html
+* Matplotlib pyplot tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+* covid datasets: https://github.com/datasets/covid-19
