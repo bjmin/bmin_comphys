@@ -9,4 +9,5 @@
 * 그림
 
 ## 참고자료
+* Matplotlib pyplot tutorial : https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
 * Matplotlib guide : https://matplotlib.org/users/index.html
