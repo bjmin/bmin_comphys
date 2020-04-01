@@ -4,8 +4,10 @@
 
 ## matplotlib.pyplot
 
+* 파일 입출력 : https://github.com/bjmin/bmin_comphys/blob/master/cp03/comphys03-1.ipynb
 * 그래프
 * 그림
 
 ## 참고자료
-* Matplotlib guide : https://matplotlib.org/users/index.html
+* Matplotlib pyplot tutorial: https://matplotlib.org/tutorials/introductory/pyplot.html#sphx-glr-tutorials-introductory-pyplot-py
+* Matplotlib guide: https://matplotlib.org/users/index.html

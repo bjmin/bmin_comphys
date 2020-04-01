@@ -11,7 +11,7 @@
 
 
 ## 참고자료
-* Python tutorial : https://docs.python.org/3/tutorial/
+* Python tutorial: https://docs.python.org/3/tutorial/
 * 점프 투 파이썬 : https://wikidocs.net/book/1
-* math library : https://docs.python.org/3/library/math.html
+* math library: https://docs.python.org/3/library/math.html
 
