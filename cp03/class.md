@@ -4,7 +4,7 @@
 
 ## matplotlib.pyplot
 
-* 파일 입출력 : https://github.com/bjmin/bmin_comphys/blob/master/cp02/comphys02-4.ipynb
+* 파일 입출력 : https://github.com/bjmin/bmin_comphys/blob/master/cp03/comphys03-1.ipynb
 * 그래프
 * 그림
 
