@@ -10,7 +10,10 @@ Computational Physics 1 (chungbuk national university, 2020)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp03/class.md (입출력/matplotlib)
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp04/class.md (curve fitting/list comprehension/자료형/에러)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp05/class.md (미분/적분)
- 
+
+* 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
+
+
 강의는 수업과 실습을 병행하여 진행하며 실습을 진행하기 위해 아래의 사항을 확인하시기 바랍니다. 
 
 ## 파이썬(python) 설치
