@@ -3,7 +3,7 @@
 * curve fitting
 * list comprehension
 * 자료형 
-* 
+* 디버깅
 
 
 ## 참고자료
