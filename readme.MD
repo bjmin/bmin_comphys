@@ -8,7 +8,7 @@ Computational Physics 1 (chungbuk national university, 2020)
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp01/class.md (기본연산/제어문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp02/class.md (리스트/배열/함수)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp03/class.md (입출력/matplotlib)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp04/class.md (curve fitting/list comprehension/자료형/에러)
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp04/class.md (curve fitting/list comprehension/자료형)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp05/class.md (미분/적분)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
