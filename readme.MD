@@ -13,10 +13,8 @@ Computational Physics 1 (chungbuk national university, 2020)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp06/class.md (방정식)
 7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp07/class.md (선형대수)
 8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp08/class.md (미분방정식)
-* interlude (markdown & latex)
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp09/class.md (기호연산) 
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp10/class.md (몬테카를로 방법)
-
 11. 프로젝트 I
 12. 프로젝트 II 
 13. 프로젝트 III
