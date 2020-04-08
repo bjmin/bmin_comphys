@@ -17,7 +17,11 @@ Computational Physics 1 (chungbuk national university, 2020)
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp09/class.md (기호연산) 
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp10/class.md (몬테카를로 방법)
 
-11~15. 프로젝트 수행
+11. 프로젝트 I
+12. 프로젝트 II 
+13. 프로젝트 III
+14. 프로젝트 IV
+15. 프로젝트 V
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 
