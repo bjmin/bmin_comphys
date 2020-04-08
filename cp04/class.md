@@ -1,8 +1,7 @@
 # 네 번째 강의 
 
-* list comprehension
-* 자료형 
-* curve fitting
+* list comprehension : https://github.com/bjmin/bmin_comphys/edit/master/cp04/comphys04-1.ipynb
+* curve fitting : https://github.com/bjmin/bmin_comphys/edit/master/cp04/comphys04-1.ipynb
 
 
 ## 참고자료
