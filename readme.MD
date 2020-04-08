@@ -1,5 +1,5 @@
-# Computational Physics 1 (2020)
-Computational Physics 1 (chungbuk national university, 2020)
+# Computational Physics (2020)
+Computational Physics (chungbuk national university, 2020)
 
 이 과목에서는 전산 기법을 이용하여 물리 문제를 해결하는 방법을 배웁니다. 이를 위해 우선 프로그래밍 언어의 기초를 익히고
 간단한 응용 문제를 직접 해결해 봅니다. 
@@ -12,11 +12,14 @@ Computational Physics 1 (chungbuk national university, 2020)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp05/class.md (미분/적분)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp06/class.md (방정식)
 7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp07/class.md (선형대수)
-8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp08/class.md (비선형 방정식)
-9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp09/class.md (미분방정식) 
-10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp10/class.md (기호연산)
-11. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp11/class.md (몬테카를로 방법)
-
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp08/class.md (미분방정식)
+9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp09/class.md (기호연산) 
+10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp10/class.md (몬테카를로 방법)
+11. 프로젝트 I
+12. 프로젝트 II 
+13. 프로젝트 III
+14. 프로젝트 IV
+15. 프로젝트 V
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 
