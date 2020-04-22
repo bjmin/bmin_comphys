@@ -1,7 +1,7 @@
 # 여섯 번째 강의 
 
 * 행렬 : https://github.com/bjmin/bmin_comphys/blob/master/cp06/comphys06-1.ipynb
-* 방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp06/comphys06-2.ipynb
+* 선형방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp06/comphys06-2.ipynb
 
 ## 참고자료
 * numpy.linalg: https://docs.scipy.org/doc/numpy/reference/routines.linalg.html#module-numpy.linalg
