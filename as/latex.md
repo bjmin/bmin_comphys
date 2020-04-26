@@ -5,5 +5,5 @@
 The Not So short Introduction to LATEX2ε (latex 입문) :
 http://mirrors.ibiblio.org/CTAN/info/lshort/korean/lshort-ko.pdf
 
-마크다운 사용법
+마크다운 사용법 :
 https://markdown-it.github.io/
