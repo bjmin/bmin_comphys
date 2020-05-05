@@ -38,13 +38,3 @@ Computational Physics (chungbuk national university, 2020)
 따라서 선택하면 됩니다. 에디터 선택은 많은 부분이 개인의 취향에 속하는 영역으로 편한 것을 선택하세요. 
 추천하는 에디터는 Jupyter(아나콘다를 설치했다면 이미 설치되어 있다)입니다.  https://jupyter.org/install  
 * 본 강의는 아나콘다 배포판을 설치하고 쥬피터를 사용하는 것을 기본으로 진행합니다.
-
-## 깃허브(GitHub)
-
-과제는 깃허브(GitHub)에 제출하여야 합니다. 따라서 우선 깃허브 사용법을 익혀둡시다.
-
-1. GitHub 계정을 만든다. https://github.com/
-2. GitHub Desktop을 설치한다. https://desktop.github.com/
-3. 다음의 튜토리얼을 해본다. https://guides.github.com/activities/hello-world/
-4. 다음의 플로우차트를 확인해 본다. https://guides.github.com/introduction/flow/
-
