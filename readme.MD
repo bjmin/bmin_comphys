@@ -22,6 +22,7 @@ Computational Physics (chungbuk national university, 2020)
 강의는 수업과 실습을 병행하여 진행하며 실습을 진행하기 위해 아래의 사항을 확인하시기 바랍니다. 
 
 ## 전산물리 2
+최대/최소값 찾기  
 비선형 방정식  
 푸리에 전개  
 경계값 문제  
