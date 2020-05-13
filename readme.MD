@@ -26,8 +26,8 @@ Computational Physics (chungbuk national university, 2020)
 비선형 방정식  
 푸리에 전개  
 경계값 문제  
+편미분방정식  
 추계적 방법  
-데이터 분석  
 머신러닝과 기계학습  
 
 ## 파이썬(python) 설치
