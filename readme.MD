@@ -24,6 +24,7 @@ Computational Physics (chungbuk national university, 2020)
 ## 전산물리 2
 비선형 방정식  
 푸리에 전개  
+경계값 문제
 편미분방정식  
 추계적 방법  
 데이터 분석  
