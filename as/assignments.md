@@ -5,4 +5,5 @@
 * 과제0409 : https://github.com/bjmin/bmin_comphys/blob/master/as/assignment3.ipynb (그래프 그리기 및 피팅)
 * 과제0416 : https://github.com/bjmin/bmin_comphys/blob/master/as/assignment4.ipynb (적분과 미분)
 * 과제0423 : https://github.com/bjmin/bmin_comphys/blob/master/as/assignment5.ipynb (행렬과 선형방정식)
+* 과제0514 : https://github.com/bjmin/bmin_comphys/blob/master/as/assignment6.ipynb (고유값/고유벡터)
 
