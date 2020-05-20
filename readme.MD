@@ -23,11 +23,11 @@ Computational Physics (chungbuk national university, 2020)
 
 ## 전산물리 2
 최대/최소값 찾기  
-경계값 문제  
 머신러닝과 기계학습  
-푸리에 전개  
 편미분방정식  
 추계적 방법  
+푸리에 전개  
+데이터 분석  
 
 ## 파이썬(python) 설치
 
