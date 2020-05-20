@@ -5,7 +5,7 @@ Computational Physics (chungbuk national university, 2020)
 간단한 응용 문제를 직접 해결해 봅니다. 
 
 ## 전산물리 1  
-* 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다. 
+* 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다(수정 중입니다). 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
 * 많은 오타를 포함하고 있으며 수정 중입니다. 오타나 오류를 발견하시면 알려주세요. 
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp01/class.md (기본연산/제어문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp02/class.md (리스트/배열/함수)
