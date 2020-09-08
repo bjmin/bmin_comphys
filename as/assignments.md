@@ -1,4 +1,8 @@
-# 과제
+# 전산물리2 과제
+
+* 과제1 : 
+
+# 전산물리1 과제
 
 * 과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as/assignment1.ipynb (기본연산과 함수)
 * 과제2 : https://github.com/bjmin/bmin_comphys/blob/master/as/assignment2.ipynb (그래프 그리기)
