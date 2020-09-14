@@ -1,6 +1,7 @@
 # 전산물리2 과제
 
 * 과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment1.ipynb (github 사용법)
+* 과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment2.ipynb (파이썬 기초)
 
 
 # 전산물리1 과제
