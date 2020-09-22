@@ -2,7 +2,7 @@
 
 * 과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment1.ipynb (github 사용법)
 * 과제2 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment2.ipynb (파이썬 기초)
-* 과제3: https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment3.ipynb (회귀 분석: 보스턴 집값, 당뇨병)
+* 과제3 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment3.ipynb (회귀 분석: 보스턴 집값, 당뇨병)
 
 
 # 전산물리1 과제
