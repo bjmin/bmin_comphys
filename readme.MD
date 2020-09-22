@@ -55,3 +55,5 @@ Computational Physics (chungbuk national university, 2020)
 추천하는 에디터는 Jupyter(아나콘다를 설치했다면 이미 설치되어 있음)입니다.  https://jupyter.org/install  
 * 본 강의는 아나콘다 배포판을 설치하고 쥬피터를 사용하는 것을 기본으로 진행합니다.
 
+* 혹은 설치가 힘든 환경이라면 구글 콜랩을 이용하셔도 됩니다. https://colab.research.google.com/
+
