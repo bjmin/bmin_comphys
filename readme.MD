@@ -12,7 +12,7 @@ Computational Physics (chungbuk national university, 2020)
 
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml01/class.md (파이썬기초/제어문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml02/class.md (리스트/배열/함수/입출력)
-3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml03/class.md (Linear Regression)
+3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml03/class.md (Regression)
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml04/class.md (Classification I)
 
 
