@@ -14,8 +14,13 @@ Computational Physics (chungbuk national university, 2020)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml02/class.md (리스트/배열/함수/입출력)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml03/class.md (Regression)
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml04/class.md (Classification I)
-
-
+5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml05/class.md (Classification II)
+6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml05/class.md (Clustering)
+* Interlude
+7. 일곱 번째 강의 (Neural Networks)
+8. 여덟 번째 강의
+9. 아홉 번째 강의
+10. 열 번째 강의
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 
