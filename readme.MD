@@ -23,7 +23,7 @@ Computational Physics (chungbuk national university, 2020)
 11. 열한 강의 (Neural Networks V)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
-* Interlude https://github.com/bjmin/bmin_comphys/blob/master/as/inter.md
+* Interlude https://github.com/bjmin/bmin_comphys/blob/master/as/interlude.md
 
 ## 전산물리 1  
 * 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다.(수정 중입니다) 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
