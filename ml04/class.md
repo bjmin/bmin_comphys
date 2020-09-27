@@ -2,9 +2,9 @@
 
 ## 분류 I (Classification)
 
-* 로지스틱 회귀 : https://github.com/bjmin/bmin_comphys/blob/master/ml03/mlphys04-1.ipynb
-* Supprot Vector Machine (SVM) : https://github.com/bjmin/bmin_comphys/blob/master/ml03/mlphys04-2.ipynb
-* 분류 예제 : https://github.com/bjmin/bmin_comphys/blob/master/ml03/mlphys04-3.ipynb
+* 로지스틱 회귀 : https://github.com/bjmin/bmin_comphys/blob/master/ml04/mlphys04-1.ipynb
+* Supprot Vector Machine (SVM) : https://github.com/bjmin/bmin_comphys/blob/master/ml04/mlphys04-2.ipynb
+* 분류 예제 : https://github.com/bjmin/bmin_comphys/blob/master/ml04/mlphys04-3.ipynb
 
 
 ## 참고자료
