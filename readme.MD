@@ -13,20 +13,25 @@ Computational Physics (chungbuk national university, 2020)
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml01/class.md (파이썬기초/제어문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml02/class.md (리스트/배열/함수/입출력)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml03/class.md (Regression)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml04/class.md 
-
-
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml04/class.md (Classification I)
+5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml05/class.md (Classification II)
+6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml06/class.md (Clustering & PCA)
+7. 일곱 번째 강의 (Neural Networks I)
+8. 여덟 번째 강의 (Neural Networks II)
+9. 아홉 번째 강의 (Neural Networks III)
+10. 열 번째 강의 (Neural Networks IV)
+11. 열한 번째 강의 (Neural Networks V)
+12. 열두 번째 강의 (Final Term and Finale)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
-
+* Interlude https://github.com/bjmin/bmin_comphys/blob/master/as/interlude.md
 
 ## 전산물리 1  
-* 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다.(수정 중입니다) 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
-* 많은 오타를 포함하고 있으며 수정 중입니다. 오타나 오류를 발견하시면 알려주세요. 
+* 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp01/class.md (기본연산/제어문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp02/class.md (리스트/배열/함수)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp03/class.md (입출력/matplotlib)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp04/class.md (curve fitting/list comprehension/자료형)
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp04/class.md (curve fitting/리스트)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp05/class.md (적분/미분)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp06/class.md (행렬/방정식)
 7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp07/class.md (고유값)
@@ -54,4 +59,6 @@ Computational Physics (chungbuk national university, 2020)
 따라서 선택하면 됩니다. 에디터 선택은 많은 부분이 개인의 취향에 속하는 영역으로 편한 것을 선택하세요. 
 추천하는 에디터는 Jupyter(아나콘다를 설치했다면 이미 설치되어 있음)입니다.  https://jupyter.org/install  
 * 본 강의는 아나콘다 배포판을 설치하고 쥬피터를 사용하는 것을 기본으로 진행합니다.
+
+* 혹은 설치가 힘든 환경이라면 구글 콜랩을 이용하셔도 됩니다. https://colab.research.google.com/
 
