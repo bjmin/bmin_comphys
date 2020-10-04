@@ -16,17 +16,16 @@ Computational Physics (chungbuk national university, 2020)
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml04/class.md (Classification I)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml05/class.md (Classification II)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml06/class.md (Clustering & PCA)
-7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml07/class.md (Neural Networks I)
-8. 여덟 번째 강의 (Neural Networks II)
-9. 아홉 번째 강의 (Convolutional Neural Networks I)
-10. 열 번째 강의 (Convolutional Neural Networks I)
-11. 열한 번째 강의 (Recurrent Neural Networks)
-12. 열두 번째 강의 (Auto Encoder)
-13. 열세 번째 강의 (Final Term)
-
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml07/class.md (Neural Networks: Basics)
+8. 여덟 번째 강의 (Deep Learning: Basics)
+9. 아홉 번째 강의 (Convolutional Neural Networks)
+10. 열 번째 강의 (Recurrent Neural Networks) 
+11. 열한 번째 강의 (Auto Encoder)
+12. 열두 번째 강의 (Final Term)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 * Interlude https://github.com/bjmin/bmin_comphys/blob/master/as/interlude.md
+
 
 ## 전산물리 1  
 * 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
