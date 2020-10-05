@@ -6,7 +6,7 @@ Computational Physics (chungbuk national university, 2020)
 
 ## 전산물리 2 
 전산물리 2에서는 머신러닝, 딥러닝에 대해서 강의합니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다.
-바닥부터 코딩하기보다는 scikit-learn, keras, tensor-flow과 같은 라이버러리를 적극 이용합니다.
+scikit-learn, keras, tensor-flow과 같은 라이버러리를 적극 이용합니다.
 
 * 많은 오타를 포함하고 있습니다. 오타나 오류를 발견하시면 알려주세요.
 
