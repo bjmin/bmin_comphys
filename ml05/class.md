@@ -9,3 +9,4 @@
 
 ## 참고자료
 * scikit-learn: https://scikit-learn.org/stable/index.html
+* XGBoost: https://xgboost.readthedocs.io/
