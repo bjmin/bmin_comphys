@@ -5,7 +5,7 @@
 * 과제3 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment3.ipynb (회귀: 보스턴 집값, 당뇨병)
 * 과제4 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment4.ipynb (분류: 분꽃)
 * 과제5 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment5.ipynb (분류: kaggle titanic)
-* 과제6 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment6.ipynb (군집: Covid19)
+* 과제6 : https://github.com/bjmin/bmin_comphys/blob/master/as2/assignment6.ipynb (군집: image segmentations)
 
 
 
