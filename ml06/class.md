@@ -4,7 +4,7 @@
 
 * Clustering (k-mean) : https://github.com/bjmin/bmin_comphys/blob/master/ml06/mlphys06-1.ipynb
 * Dimensional Reduction (PCA) : https://github.com/bjmin/bmin_comphys/blob/master/ml06/mlphys06-2.ipynb
-* 예제 : https://github.com/bjmin/bmin_comphys/blob/master/ml05/mlphys06-3.ipynb
+* 예제 : https://github.com/bjmin/bmin_comphys/blob/master/ml06/mlphys06-3.ipynb
 
 
 ## 참고자료
