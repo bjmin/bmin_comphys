@@ -21,7 +21,7 @@ Computational Physics (chungbuk national university, 2020)
 9. 아홉 번째 강의 (Convolutional Neural Networks)
 10. 열 번째 강의 (Recurrent Neural Networks) 
 11. 열한 번째 강의 (Auto Encoder)
-12. 열두 번째 강의 (Inference)
+12. 열두 번째 강의 (Bayesian Inference)
 
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
