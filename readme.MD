@@ -10,16 +10,16 @@ Computational Physics (chungbuk national university, 2020)
 
 * 많은 오타를 포함하고 있습니다. 오타나 오류를 발견하시면 알려주세요.
 
-1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml01/class.md (파이썬기초/제어문/반복문)
-2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml02/class.md (리스트/배열/함수/입출력)
-3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml03/class.md (Regression)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml04/class.md (Classification I)
-5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml05/class.md (Classification II)
-6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml06/class.md (Clustering & PCA)
-7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml07/class.md (Neural Networks)
-8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml08/class.md (Deep Learning)
-9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml09/class.md (CNN)
-10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml10/class.md (RNN) 
+1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml01/class.md (파이썬기초/제어문/반복문)
+2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/class.md (리스트/배열/함수/입출력)
+3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml03/class.md (Regression)
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml04/class.md (Classification I)
+5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/class.md (Classification II)
+6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml06/class.md (Clustering & PCA)
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (Neural Networks)
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/class.md (Deep Learning)
+9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/class.md (CNN)
+10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/class.md (RNN) 
 11. 열한 번째 강의 
 12. 열두 번째 강의 
 * (Special Lecture) Deep Learning in High-Energy Physics 
@@ -28,16 +28,16 @@ Computational Physics (chungbuk national university, 2020)
 
 ## 전산물리 1 (2020 Spring)
 * 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
-1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp01/class.md (기본연산/제어문/반복문)
-2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp02/class.md (리스트/배열/함수)
-3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp03/class.md (입출력/matplotlib)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp04/class.md (curve fitting/리스트)
-5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp05/class.md (적분/미분)
-6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp06/class.md (행렬/방정식)
-7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp07/class.md (고유값)
-8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp08/class.md (미분방정식)
-9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp09/class.md (기호연산) 
-10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp10/class.md (몬테카를로 방법)
+1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp01/class.md (기본연산/제어문/반복문)
+2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/class.md (리스트/배열/함수)
+3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp03/class.md (입출력/matplotlib)
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp04/class.md (curve fitting/리스트)
+5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp05/class.md (적분/미분)
+6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/class.md (행렬/방정식)
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp07/class.md (고유값)
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/class.md (미분방정식)
+9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/class.md (기호연산) 
+10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp10/class.md (몬테카를로 방법)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 * 수식쓰기(latex) https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md
