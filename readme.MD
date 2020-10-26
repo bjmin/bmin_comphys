@@ -20,7 +20,7 @@ Computational Physics (chungbuk national university, 2020)
 8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml08/class.md (Deep Learning)
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml09/class.md (CNN)
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml10/class.md (RNN) 
-11. 열한 번째 강의 (Auto Encoder)
+11. 열한 번째 강의 
 12. 열두 번째 강의 
 * (Special Lecture) Deep Learning in High-Energy Physics 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
