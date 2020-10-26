@@ -3,7 +3,8 @@
 ## 딥러닝 기초
 
 * Multi-Layer Perceptron (MPL): https://github.com/bjmin/bmin_comphys/blob/master/ml08/mlphys08-1.ipynb
-* MNIST 예제: https://github.com/bjmin/bmin_comphys/blob/master/ml08/mlphys08-2.ipynb
+* Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml08/mlphys08-2.ipynb
+* Dropout : https://github.com/bjmin/bmin_comphys/blob/master/ml08/mlphys08-3.ipynb
 * tensorflow playground: http://playground.tensorflow.org/
 
 
