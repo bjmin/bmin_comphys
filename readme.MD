@@ -4,7 +4,7 @@ Computational Physics (chungbuk national university, 2020)
 이 과목에서는 전산 기법을 이용하여 물리 문제를 해결하는 방법을 배웁니다. 이를 위해 우선 프로그래밍 언어의 기초를 익히고
 간단한 응용 문제를 직접 해결해 봅니다. 또한 기계학습과 딥러닝의 기초를 익힙니다..
 
-## 전산물리 2 
+## 전산물리 2 (2020 Fall)
 전산물리 2에서는 머신러닝, 딥러닝에 대해서 강의합니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다.
 바닥부터 코딩하기보다는 scikit-learn, keras, tensor-flow과 같은 라이버러리를 적극 이용합니다.
 
@@ -26,7 +26,7 @@ Computational Physics (chungbuk national university, 2020)
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 
 
-## 전산물리 1  
+## 전산물리 1 (2020 Spring)
 * 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp01/class.md (기본연산/제어문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp02/class.md (리스트/배열/함수)
