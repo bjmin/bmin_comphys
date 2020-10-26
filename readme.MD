@@ -23,7 +23,6 @@ Computational Physics (chungbuk national university, 2020)
 11. 열한 번째 강의 (Auto Encoder)
 12. 열두 번째 강의 
 * (Special Lecture) Deeplearning in High-Energy Physics 
-
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 
 
