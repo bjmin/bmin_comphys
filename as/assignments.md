@@ -6,8 +6,8 @@
 * 과제4 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment4.ipynb (분류: 분꽃)
 * 과제5 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment5.ipynb (분류: kaggle titanic)
 * 과제6 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment6.ipynb (군집: image segmentation)
-* 과제7 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment7.ipynb (분류: softmax)
-* 과제7 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment8.ipynb (딥러닝: MNIST)
+* 과제7 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment7.ipynb (신경망: MNIST)
+* 과제8 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment8.ipynb (딥러닝: MNIST)
 
 
 
