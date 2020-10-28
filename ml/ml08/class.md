@@ -1,6 +1,6 @@
 # 여덟 번째 강의
 
-## 딥러닝 기초
+## Deep Learning I
 
 * Multi-Layer Perceptron (MPL): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
 * Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-2.ipynb
