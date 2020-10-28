@@ -1,6 +1,6 @@
 # 아홉 번째 강의
 
-## Convolutional Neural Networks (CNN)
+## Deep Learning II
 
 * Convolution and Pooling: https://github.com/bjmin/bmin_comphys/blob/master/ml09/mlphys09-1.ipynb
 * Convolutional Neural Networks: https://github.com/bjmin/bmin_comphys/blob/master/ml09/mlphys09-2.ipynb
