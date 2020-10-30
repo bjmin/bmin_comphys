@@ -3,7 +3,7 @@
 간단한 응용 문제를 직접 해결해 봅니다. 또한 전산물리2에서는 기계학습과 딥러닝의 기초를 중점적으로 익힙니다.
 
 수업은 파이썬(python) 언어를 기반으로 진행합니다. 따라서 다음을 따라 파이썬을 설치하세요.  
-파이썬 설치: https://github.com/bjmin/bmin_comphys/blob/master/python.md 
+* 파이썬 설치: https://github.com/bjmin/bmin_comphys/blob/master/python.md 
 
 ## 전산물리 2 (2020 Fall)
 전산물리 2에서는 머신러닝, 딥러닝에 대해서 강의합니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다.
@@ -45,7 +45,3 @@
 * 수식쓰기(latex) https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md
 
 강의는 수업과 실습을 병행하여 진행하며 실습을 진행하기 위해 아래의 사항을 확인하시기 바랍니다. 
-
-## 파이썬(python) 설치
-
-이 강의에서는 프로그래밍 언어로 파이썬을 사용합니다. 
