@@ -44,4 +44,3 @@
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 * 수식쓰기(latex) https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md
 
-강의는 수업과 실습을 병행하여 진행하며 실습을 진행하기 위해 아래의 사항을 확인하시기 바랍니다. 
