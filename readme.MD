@@ -5,6 +5,23 @@
 수업은 파이썬(python) 언어를 기반으로 진행합니다. 따라서 다음을 따라 파이썬을 설치하세요.  
 * 파이썬 설치: https://github.com/bjmin/bmin_comphys/blob/master/python.md 
 
+
+## 전산물리 1 (2020 Spring)
+* 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
+1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp01/class.md (기본연산/제어문/반복문)
+2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/class.md (리스트/배열/함수)
+3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp03/class.md (입출력/matplotlib)
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp04/class.md (curve fitting/리스트)
+5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp05/class.md (적분/미분)
+6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/class.md (행렬/방정식)
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp07/class.md (고유값)
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/class.md (미분방정식)
+9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/class.md (기호연산) 
+10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp10/class.md (몬테카를로 방법)
+
+* 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
+* 수식쓰기(latex) https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md
+
 ## 전산물리 2 (2020 Fall)
 전산물리 2에서는 머신러닝, 딥러닝에 대해서 강의합니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다.
 바닥부터 코딩하기보다는 scikit-learn, keras, tensor-flow과 같은 라이버러리를 적극 이용합니다.
@@ -26,21 +43,4 @@
 
 * (Special Lecture) Deep Learning in High-Energy Physics 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
-
-
-## 전산물리 1 (2020 Spring)
-* 강의 노트 중 수식이 깨져서 보이는 부분이 있습니다. 다운받은 후 쥬피터에서 보시면 문제없이 볼 수 있습니다.
-1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp01/class.md (기본연산/제어문/반복문)
-2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/class.md (리스트/배열/함수)
-3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp03/class.md (입출력/matplotlib)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp04/class.md (curve fitting/리스트)
-5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp05/class.md (적분/미분)
-6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/class.md (행렬/방정식)
-7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp07/class.md (고유값)
-8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/class.md (미분방정식)
-9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/class.md (기호연산) 
-10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp10/class.md (몬테카를로 방법)
-
-* 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
-* 수식쓰기(latex) https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md
 
