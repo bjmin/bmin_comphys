@@ -24,9 +24,9 @@
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/class.md (CNN) 
 11. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/class.md (RNN)
 12. 열두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml12/class.md (GAN)
-13. (특별강의) Deep Learning in High-Energy Physics 
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
+* (Special Lecture) Deep Learning in High-Energy Physics 
 
 
 ## 전산물리 1 (2020 Spring)
