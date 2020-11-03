@@ -1,4 +1,4 @@
-# 열 번째 강의
+# 열한 번째 강의
 
 ## Recurrent neural network (RNN)
 
