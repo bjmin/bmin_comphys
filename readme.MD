@@ -41,6 +41,6 @@
 8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/class.md (미분방정식)
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/class.md (기호연산) 
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp10/class.md (몬테카를로 방법)
+11. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md (수식쓰기)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
-* 수식쓰기(latex) https://github.com/bjmin/bmin_comphys/blob/master/as/latex.md
