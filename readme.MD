@@ -23,6 +23,8 @@
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/class.md (Deep Learning II)
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/class.md (CNN) 
 11. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/class.md (RNN)
+12. 열두 번째 강의 (GAN)
+
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
 * (Special Lecture) Deep Learning in High-Energy Physics 
