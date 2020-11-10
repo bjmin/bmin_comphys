@@ -9,7 +9,6 @@
 * 과제7 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment7.ipynb (신경망: MNIST)
 * 과제8 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment8.ipynb (딥러닝: MNIST)
 * 과제9 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment9.ipynb (CNN)
-* 과제10 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment10.ipynb (RNN)
 
 
 
