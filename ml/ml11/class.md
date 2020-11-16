@@ -2,7 +2,7 @@
 
 ## Recurrent neural network (RNN)
 
-* Time-Series and Deep Learning: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/mlphys11-1.ipynb
+* Deep Learning Time-Series: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/mlphys11-1.ipynb
 * Recurrent Layer: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/mlphys11-2.ipynb
 
 ## 참고자료
