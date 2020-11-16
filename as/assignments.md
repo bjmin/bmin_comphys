@@ -2,14 +2,14 @@
 
 * 과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment1.ipynb (github 사용법)
 * 과제2 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment2.ipynb (파이썬 기초)
-* 과제3 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment3.ipynb (회귀: 보스턴 집값, 당뇨병)
+* 과제3 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment3.ipynb (회귀: 당뇨)
 * 과제4 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment4.ipynb (분류: 분꽃)
 * 과제5 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment5.ipynb (분류: kaggle titanic)
 * 과제6 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment6.ipynb (군집: image segmentation)
 * 과제7 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment7.ipynb (신경망: MNIST)
 * 과제8 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment8.ipynb (딥러닝: MNIST)
-* 과제9 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment9.ipynb (CNN)
-
+* 과제9 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment9.ipynb (CNN: MNIST)
+* 과제10 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment10.ipynb (RNN: Covid-19)
 
 
 
