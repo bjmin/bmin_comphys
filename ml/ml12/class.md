@@ -2,7 +2,7 @@
 
 ## Generative adversarial network (GAN)
 
-* Auto Encoder: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml12/mlphys12-1.ipynb
+* Autoencoder: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml12/mlphys12-1.ipynb
 * Generative Adversarial Networks (GAN): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml12/mlphys12-2.ipynb
 
 ## 참고자료
