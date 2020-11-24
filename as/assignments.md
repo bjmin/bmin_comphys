@@ -10,7 +10,6 @@
 * 과제8 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment8.ipynb (딥러닝: MNIST)
 * 과제9 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment9.ipynb (CNN: MNIST)
 * 과제10 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment10.ipynb (RNN: IMDB)
-* 과제11: https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment11.ipynb (Final Term)
 
 # 전산물리1 과제
 
