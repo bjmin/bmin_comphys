@@ -8,8 +8,6 @@
 수업은 파이썬(python) 언어를 기반으로 진행합니다. 따라서 다음을 따라 파이썬을 설치하세요.  
 * 파이썬 설치: https://github.com/bjmin/bmin_comphys/blob/master/python.md 
 
-## 전산물리 (2021 Spring)
-
 ## 전산물리 2 (2020 Fall)
 전산물리 2에서는 머신러닝, 딥러닝에 대해서 강의합니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다.
 바닥부터 코딩하기보다는 scikit-learn, keras, tensor-flow과 같은 라이버러리를 적극 이용합니다.
