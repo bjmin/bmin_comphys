@@ -1,5 +1,4 @@
 # Computational Physics (2020)
-
 ## Department of Physics, Chungbuk National University
 
 전산 기법을 이용하여 물리 문제를 해결하는 방법을 배웁니다. 이를 위해 우선 프로그래밍 언어의 기초를 익히고
