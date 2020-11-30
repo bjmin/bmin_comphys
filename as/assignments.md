@@ -11,6 +11,9 @@
 * 과제9 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment9.ipynb (CNN: MNIST)
 * 과제10 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment10.ipynb (RNN: IMDB)
 
+* 기말과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/assignment11.ipynb (군집/Wine/scikit-learn)
+* 기말과제2 : https://www.kaggle.com/c/cbnu-comphys2020 (deep learning/kaggle/MNIST) 
+
 # 전산물리1 과제
 
 * 과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as/as1/assignment1.ipynb (기본연산과 함수)
