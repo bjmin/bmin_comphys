@@ -13,6 +13,8 @@
 * 기말과제1 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/wine.ipynb (군집/Wine/scikit-learn)
 * 기말과제2 : https://www.kaggle.com/t/9b33f6ab69734eb582f2dad983ffc4c8 (deep learning/kaggle/MNIST) 
 * 참조 : https://github.com/bjmin/bmin_comphys/blob/master/as/as2/chinese_mnist.ipynb (chinese MNIST 데이터 준비)
+* 기말과제 기한 : 12월 20일 자정
+
 
 # 전산물리1 과제
 
