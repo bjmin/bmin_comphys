@@ -1,6 +1,6 @@
 # Computational Physics (2020)
 
-* Computational Physics & Machine Learning for Physics, Department of Physics, Chungbuk National University
+* Computational Physics & Machine Learning for Physicists, Department of Physics, Chungbuk National University
 
 컴퓨터를 이용하여 물리 문제를 해결하는 방법을 배웁니다. 이를 위해 우선 프로그래밍 언어의 기초를 익히고
 간단한 응용 문제를 직접 해결해 봅니다. 또한 전산물리2에서는 기계학습과 데이터 분석의 기초를 중점적으로 공부합니다.
