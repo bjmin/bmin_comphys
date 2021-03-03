@@ -11,4 +11,4 @@
 ## 전산물리 1 (2021 Spring)
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp01/class.md (기본연산/제어문/반복문)
 
-* 과제 https://github.com/bjmin/bmin_comphys/blob/master/as/assignments.md 
+* 과제 https://github.com/bjmin/bmin_comphys/blob/master/homeworks21/homeworks.md 
