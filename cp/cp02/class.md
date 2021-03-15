@@ -5,6 +5,7 @@
 * Math library: https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/comphys02-1.ipynb
 * 리스트와 배열 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/comphys02-2.ipynb
 * 함수 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/comphys02-3.ipynb
+* numpy : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/comphys02-4.ipynb
 
 ## 참고자료
 * Python tutorial: https://docs.python.org/3/tutorial/
