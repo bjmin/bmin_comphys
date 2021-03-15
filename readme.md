@@ -13,6 +13,6 @@
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/class.md (리스트/array/함수/numpy)
 3. 세 번째 강의 (matplotlib, 입출력)
 4. 네 번째 강의 (미분/적분)
-5. 
+
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
