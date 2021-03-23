@@ -10,7 +10,5 @@
 
 ## 참고자료
 
-* Matplotlib pyplot: https://matplotlib.org/api/_as_gen/matplotlib.pyplot.html
-* Matplotlib guide: https://matplotlib.org/users/index.html
+* Matplotlib guide: https://matplotlib.org/stable/users/index.html
 * Matplotlib pyplot tutorial: https://matplotlib.org/stable/tutorials/introductory/pyplot.html
-* covid datasets: https://github.com/datasets/covid-19
