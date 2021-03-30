@@ -14,5 +14,13 @@
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp03/class.md (matplotlib, 입출력)
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp04/class.md (적분/미분)
 
+5. 다섯 번째 강의 (행렬/방정식)
+6. 여섯 번째 강의 (고유값)
+7. 일곱 번째 강의 (미분방정식)
+8. 여덟 번째 강의 (편미분방정식)
+9. 아홉 번째 강의 (푸리에변환)
+10. 열 번째 강의 (기호연산)
+11. 열한 번째 강의 (몬테카를로 방법)
+12. 열두 번째 강의 (수식쓰기/latex)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
