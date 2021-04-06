@@ -1,4 +1,4 @@
-# 여섯 번째 강의 
+# 다섯 번째 강의 
 
 * 행렬 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp05/comphys05-1.ipynb
 * 선형방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp05/comphys05-2.ipynb
