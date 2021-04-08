@@ -1,8 +1,9 @@
-# 여섯 번째 강의 
+# 여덟 번째 강의 
 
-* 행렬 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/comphys06-1.ipynb
-* 선형방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/comphys06-2.ipynb
+* 미분방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/comphys08-1.ipynb
+* 경계값 문제(Boundary Value Problems) : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/comphys08-2.ipynb
+* 카오스(Chaos) : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/comphys08-3.ipynb
 
 ## 참고자료
-* numpy.linalg: https://docs.scipy.org/doc/numpy/reference/routines.linalg.html#module-numpy.linalg
-* SciPy: https://docs.scipy.org/doc/scipy/reference/index.html
+* SciPy: https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
+
