@@ -1,4 +1,4 @@
-# 여덟 번째 강의 
+# 여섯 번째 강의 
 
 * 미분방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/comphys06-1.ipynb
 * 경계값 문제(Boundary Value Problems) : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/comphys06-2.ipynb
