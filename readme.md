@@ -15,7 +15,7 @@
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp04/class.md (적분/미분)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp05/class.md (행렬/방정식)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/class.md (미분방정식)
-7. 일곱 번째 강의 (고유값)
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp07/class.md (고유값)
 8. 여덟 번째 강의 (푸리에변환)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
