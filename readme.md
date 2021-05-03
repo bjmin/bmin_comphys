@@ -20,6 +20,7 @@
 9. 아홉 번째 강의 (편미분방정식)
 10. 열 번째 강의 (몬테카를로 방법)
 11. 열한 번째 강의 (기호연산)
-12. 열두 번째 강의 (수식쓰기/latex)
+12. 열두 번째 강의 (데이터/통계)
+13. 열세 번째 강의 (수식쓰기/latex)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
