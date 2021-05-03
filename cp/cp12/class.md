@@ -1,4 +1,4 @@
-# 아홉 번째 강의 
+# 열두 번째 강의 
 
 * 기호연산 기초 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-1.ipynb
 * 행렬과 미분방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-2.ipynb
