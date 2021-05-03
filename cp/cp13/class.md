@@ -1,8 +1,9 @@
-# 아홉 번째 강의 
+# 열세 번째 강의 
 
-* 기호연산 기초 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-1.ipynb
-* 행렬과 미분방정식 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-2.ipynb
-* 특수함수 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-3.ipynb
+다음의 참고자료 3장 수학식 조판을 읽으세요.
 
-## 참고자료
-* Sympy: https://www.sympy.org/en/index.html
+The Not So short Introduction to LATEX2ε (latex 입문) :
+http://mirrors.ibiblio.org/CTAN/info/lshort/korean/lshort-ko.pdf
+
+마크다운 사용법 :
+https://markdown-it.github.io/
