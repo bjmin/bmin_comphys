@@ -17,8 +17,8 @@
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/class.md (미분방정식)
 7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp07/class.md (고유값)
 8. 여덟 번째 강의 (푸리에변환)
-9. 아홉 번째 강의 (몬테카를로 방법)
-10. 열 번째 강의 (편미분방정식)
+9. 아홉 번째 강의 (편미분방정식)
+10. 열 번째 강의 (몬테카를로 방법)
 11. 열한 번째 강의 (기호연산)
 12. 열두 번째 강의 (수식쓰기/latex)
 
