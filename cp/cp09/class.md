@@ -1,4 +1,7 @@
 # 아홉 번째 강의 
 
-* 미분방정식 (review) : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-1.ipynb
-* PDE and Relaxation : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-2.ipynb
+* 데이터 다루기 :
+* curve fitting : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-2.ipynb
+
+## 참고자료
+* Pandas: https://pandas.pydata.org/
