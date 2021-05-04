@@ -8,7 +8,7 @@
 수업은 파이썬(python) 언어를 기반으로 진행합니다. 따라서 다음을 따라 파이썬을 설치하세요.  
 * 파이썬 설치: https://github.com/bjmin/bmin_comphys/blob/master/python.md 
 
-## 전산물리 1 (2021 Spring)
+## 전산물리 (2021 Spring)
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp01/class.md (기본연산/조건문/반복문)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp02/class.md (리스트/array/함수/numpy)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp03/class.md (matplotlib, 입출력)
