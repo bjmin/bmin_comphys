@@ -2,7 +2,7 @@
 
 * 데이터 입출력 (Pandas) :
 * 통계 :
-* curve fitting : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys11-3.ipynb
+* curve fitting : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp11/comphys11-3.ipynb
 
 ## 참고자료
 * Pandas: https://pandas.pydata.org/
