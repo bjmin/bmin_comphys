@@ -8,7 +8,7 @@
 5. (Apr. 7) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment5.ipynb (matrix)
 6. (Apr. 14) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment6.ipynb (differential equations)
 7. (Apr. 28) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment7.ipynb (eigenvalues)
-8. (May. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment8.ipynb (Monte-carlo methods)
+8. (May. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment8.ipynb (Monte Carlo methods)
 9. (May. 19) (optimization)
 10. (May. 26) (symbolic)
 
