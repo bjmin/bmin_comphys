@@ -17,8 +17,8 @@
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp06/class.md (미분방정식)
 7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp07/class.md (고유값/고유벡터)
 8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/class.md (푸리에변환)
-9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/class.md (데이터/통계)
-10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp10/class.md (몬테카를로 방법)
+9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/class.md (몬테카를로 방법)
+10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp10/class.md (최적화)
 11. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp11/class.md (기호연산)
 12. 열두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/cp/cp12/class.md (markdown/outro)
 
