@@ -5,5 +5,4 @@
 * 이산(discrete) 푸리에 변환 : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp08/comphys08-3.ipynb
 
 ## 참고자료
-* SciPy: https://docs.scipy.org/doc/scipy/reference/generated/scipy.integrate.odeint.html
-
+* https://numpy.org/doc/stable/reference/routines.fft.html
