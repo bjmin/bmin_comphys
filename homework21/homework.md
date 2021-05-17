@@ -1,5 +1,5 @@
 
-# 전산물리1 과제
+# 전산물리 과제
 
 1. (Mar. 10) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment1.ipynb (installing)
 2. (Mar. 17) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment2.ipynb (basics)
