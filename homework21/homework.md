@@ -13,6 +13,6 @@
 10. (May. 26) https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment10.ipynb (symbolic)
 
 * Final term (due June 15)   
-https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/assignment11.ipynb
+https://github.com/bjmin/bmin_comphys/blob/master/homework21/cp/final.ipynb
 
 * 조교 깃허브의 과제제출 유의사항을 반드시 참조하세요.  https://github.com/joongjae93/Notice
