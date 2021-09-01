@@ -8,6 +8,8 @@
 
 * 기본연산/조건문/반복문 : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml01/mlphys01-1.ipynb
 * 리스트/배열/numpy : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml01/mlphys01-2.ipynb
+* 함수 : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/mlphys02-2.ipynb
+* 입출력 : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/mlphys02-3.ipynb
 
 
 ## 참고자료
