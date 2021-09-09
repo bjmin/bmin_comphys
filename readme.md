@@ -10,5 +10,6 @@ keras, tensor-flow, scikit-learn과 같은 라이버러리를 적극 이용합�
 
 많은 오타를 포함하고 있습니다. 오타나 오류를 발견하시면 알려주세요.
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml01/class.md (파이썬기초)
-
-* 과제
+2. 두 번째 강의 
+ 
+* 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
