@@ -4,7 +4,7 @@
 
 ## matplotlib.pyplot
 
-* 그래프 : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/comphys03-1.ipynb
+* 그래프 : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/mlphys02-1.ipynb
 
 
 ## 참고자료
