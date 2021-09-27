@@ -12,7 +12,7 @@ keras, tensor-flow, scikit-learn과 같은 라이버러리를 적극 이용합�
 1. 첫 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml01/class.md (파이썬기초)
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/class.md (matplotlib)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml03/class.md (regression)
-4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml04/class.md (clustering)
-5. 다섯 번째 강의 
+4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml04/class.md (classification)
+5. 다섯 번째 강의 (unsupervised learning)
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
