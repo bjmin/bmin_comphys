@@ -2,7 +2,7 @@
 # 전산물리 과제
 
 1. (Sep. 21) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment1.ipynb (installing)
-2. (Oct. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment2.ipynb (Regression & Classification)
+2. (Oct. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment2.ipynb (Regression) 
 3. (Clustering)
 4. (Neural Networks: XOR)
 5. (Deep Learning: MNIST)
