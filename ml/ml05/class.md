@@ -1,12 +1,12 @@
 # 다섯 번째 강의 
 
-## 분류 II (Classification II)
+## 실습 1 (Regression & Classification)
 
-* Decision Tree : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-1.ipynb
-* Random Forest : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-2.ipynb
-* 예제 : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-3.ipynb
+* Gradient Descent : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-1.ipynb 
+* Linear Regression : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-2.ipynb
+* Logistic Regression : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-3.ipynb
+* scikit-learn : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/mlphys05-4.ipynb
 
 
 ## 참고자료
 * scikit-learn: https://scikit-learn.org/stable/index.html
-* XGBoost: https://xgboost.readthedocs.io/
