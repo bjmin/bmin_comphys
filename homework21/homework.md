@@ -3,7 +3,7 @@
 
 1. (Sep. 21) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment1.ipynb (installing)
 2. (Oct. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment2.ipynb (Regression)
-3. (Clustering)
+3. (Clustering) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment2.ipynb (Clustering)
 4. (Neural Networks: XOR)
 5. (Deep Learning: MNIST)
 6. (Convolutional Neural Networks)
