@@ -5,7 +5,7 @@
 * Neural Networks: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys07-1.ipynb
 * Keras: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys07-2.ipynb
 * MNIST 예제: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys07-3.ipynb
-
+* Examples: http://playground.tensorflow.org/
 
 ## 참고자료
 * Keras: https://keras.io/ko/
