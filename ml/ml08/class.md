@@ -2,8 +2,8 @@
 
 ## Deep Learning I
 
-* Perceptron (example): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-4.ipynb
-* MLP (example): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-5.ipynb
+* Perceptron: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-4.ipynb
+* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-5.ipynb
 
 ### using Keras
 * Multi-Layer Perceptron (MLP): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
