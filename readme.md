@@ -15,7 +15,11 @@ keras, tensor-flow, scikit-learn과 같은 라이버러리를 적극 이용합�
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml04/class.md (classification)
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/class.md (excercise 1)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml06/class.md (unsupervised)
-7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md 
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (neural networks: intro)
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (neural networks: perceptrons)
+9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (deep neural networks)
+10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (convolutional neural networks)
+
 
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
