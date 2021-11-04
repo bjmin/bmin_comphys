@@ -2,7 +2,11 @@
 
 ## Deep Learning I
 
-* Multi-Layer Perceptron (MPL): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
+* Perceptron: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-4.ipynb
+* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-5.ipynb
+
+### using Keras
+* Multi-Layer Perceptron (MLP): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
 * Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-2.ipynb
 * Validation and over-fitting: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-3.ipynb
 
