@@ -1,10 +1,10 @@
 # 여덟 번째 강의
 
-## Deep Learning I
+## Perceptrons
 
 * Perceptron: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys07-2.ipynb
 * Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
-* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys08-2.ipynb
+* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-2.ipynb
 
 ### using Keras
 * Multi-Layer Perceptron (MLP): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-3.ipynb
