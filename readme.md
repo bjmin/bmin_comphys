@@ -3,7 +3,7 @@
 * Department of Physics, Chungbuk National University
 
 기계학습과 딥러닝의 기초를 배웁니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다. 
-keras, tensor-flow, scikit-learn과 같은 라이버러리를 적극 이용합니다.
+pytorch(혹은 keras), scikit-learn과 같은 라이버러리를 적극 이용합니다.
 
 수업은 파이썬(python) 언어를 기반으로 진행합니다. 따라서 다음을 따라 파이썬을 설치하세요.  
 * 파이썬 설치: https://github.com/bjmin/bmin_comphys/blob/master/python.md 
@@ -13,12 +13,14 @@ keras, tensor-flow, scikit-learn과 같은 라이버러리를 적극 이용합�
 2. 두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml02/class.md (matplotlib)
 3. 세 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml03/class.md (regression)
 4. 네 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml04/class.md (classification)
-5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/class.md (excercise 1)
+5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/class.md (excercise)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml06/class.md (unsupervised)
-7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (neural networks: intro)
-8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (neural networks: perceptrons)
-9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (deep neural networks)
-10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (convolutional neural networks)
+7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (nn: intro)
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/class.md (nn: perceptrons)
+9. 아홉 번째 강의 (dnn w/keras)
+10. 열 번째 강의 (dnn w/pytorch)
+11. 열 번째 강의 (cnn)
+12. 열한 번째 강의 (Boltzmann machine)
 
 
 
