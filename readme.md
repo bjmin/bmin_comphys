@@ -16,7 +16,7 @@ keras, tensor-flow, scikit-learn과 같은 라이버러리를 적극 이용합�
 5. 다섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml05/class.md (excercise 1)
 6. 여섯 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml06/class.md (unsupervised)
 7. 일곱 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (nn: intro)
-8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (nn: perceptrons)
+8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/class.md (nn: perceptrons)
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (dnn)
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/class.md (cnn)
 11. 열한 번째 강의 (Boltzmann machine)
