@@ -2,13 +2,13 @@
 
 ## Deep Learning I
 
-* Perceptron: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-4.ipynb
-* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-5.ipynb
+* Perceptron: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys07-2.ipynb
+* Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
+* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys08-2.ipynb
 
 ### using Keras
-* Multi-Layer Perceptron (MLP): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
-* Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-2.ipynb
-* Validation and over-fitting: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-3.ipynb
+* Multi-Layer Perceptron (MLP): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-3.ipynb
+* Validation and over-fitting: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-4.ipynb
 
 
 ## 참고자료
