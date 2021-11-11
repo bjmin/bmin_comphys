@@ -2,12 +2,12 @@
 # 전산물리 과제
 
 1. (Sep. 21) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment1.ipynb (installing)
-2. (Oct. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment2.ipynb (Regression)
-3. (Oct. 29) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment3.ipynb (Clustering)
-4. (Nov. 5) (backpropagation)
-5. (Deep Learning: XOR)
-6. (Deep Learning: MNIST)
-7. (Convolutional Neural Networks)
+2. (Oct. 12) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment2.ipynb (regression)
+3. (Oct. 29) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment3.ipynb (clustering)
+4. (Nov. 10) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment4.ipynb (perceptron)
+5. (Nov. 17) (Deep Learning I)
+6. (Deep Learning II)
+7. (CNN)
 8. (Final Term)
 
 
