@@ -6,7 +6,7 @@
 3. (Oct. 29) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment3.ipynb (clustering)
 4. (Nov. 10) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment4.ipynb (perceptron)
 5. (Nov. 17) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment5.ipynb (backpropagation)
-6. (Deep Learning II)
+6. (Deep Learning)
 7. (CNN)
 8. (Final Term)
 
