@@ -2,7 +2,7 @@
 
 ## Deep Learning with pytorch
 
-* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-1.ipynb
+* MLP(XOR): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-1.ipynb
 * MNIST: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-2.ipynb
 
 ## 참고자료
