@@ -4,6 +4,7 @@
 
 * Perceptron: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml07/mlphys07-2.ipynb
 * Backpropagation: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-1.ipynb
+* Backpropagation II: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-5.ipynb
 
 ### using Keras
 * Multi-Layer Perceptron (MLP): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/mlphys08-3.ipynb
