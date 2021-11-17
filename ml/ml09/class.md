@@ -6,7 +6,7 @@
 * classification: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-2.ipynb
 * MNIST: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-3.ipynb
 
-### using keras
+### using keras 
 
 * MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/mlphys10-1.ipynb
 * MNIST: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/mlphys10-2.ipynb
