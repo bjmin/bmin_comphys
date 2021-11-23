@@ -1,7 +1,5 @@
 # Machine Learning for Physicists (2021)
 
-* Department of Physics, Chungbuk National University
-
 기계학습과 딥러닝의 기초를 배웁니다. 머신러닝, 딥러닝 알고리듬의 개요를 살펴보고 파이썬을 이용하여 실제로 적용해봅니다. 
 pytorch(혹은 keras), scikit-learn과 같은 라이버러리를 적극 이용합니다.
 
