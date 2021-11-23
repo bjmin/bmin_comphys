@@ -4,7 +4,7 @@
 
 * MLP(XOR): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-1.ipynb
 * classification: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-2.ipynb
-* MNIST
+* MNIST: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-3.ipynb
 
 ### using keras 
 

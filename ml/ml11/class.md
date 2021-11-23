@@ -2,6 +2,8 @@
 
 ## Generative Models
 
+* Bayesian Inference
+* Variational Autoencoder (VAE)
 
 ## 참고자료
 
