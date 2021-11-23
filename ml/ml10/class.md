@@ -10,3 +10,4 @@
 
 ## 참고자료
 * pytorch: https://pytorch.org/
+* pytorch tutorials: https://tutorials.pytorch.kr/
