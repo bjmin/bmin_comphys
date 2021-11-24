@@ -7,7 +7,7 @@
 4. (Nov. 10) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment4.ipynb (perceptron)
 5. (Nov. 17) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment5.ipynb (backpropagation)
 6. (Nov. 25) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment6.ipynb (MNIST)
-7. (Nov. 30) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment7.ipynb (EMNIST w CNN)
+7. (Nov. 30) https://github.com/bjmin/bmin_comphys/blob/master/homework21/ml/assignment7.ipynb (EMNIST)
 8. (Dec. 7)
 9. (Final Term)
 
