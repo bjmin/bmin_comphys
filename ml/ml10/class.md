@@ -3,9 +3,9 @@
 ## Convolutional Neural Networks (CNN) 
 
 * MNIST(DNN): 
-* class: 
-* CNN: 
-* MNIST(CNN): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-3.ipynb
+* class: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys10-2.ipynb
+* CNN: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/mlphys10-3.ipynb
+* MNIST(CNN): https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/mlphys10-4.ipynb
 
 
 ## 참고자료
