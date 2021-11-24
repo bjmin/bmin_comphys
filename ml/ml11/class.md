@@ -1,9 +1,9 @@
 # 열한 번째 강의
 
-## Generative Models
+## Boltzmann Machine
 
-* Bayesian Inference
-* Variational Autoencoder (VAE)
+* Boltzmann Machine
+* Restricted Boltzmann Machine (RBM)
 
 ## 참고자료
-
+* https://en.wikipedia.org/wiki/Boltzmann_machine
