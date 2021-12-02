@@ -8,8 +8,8 @@
 
 ### using keras 
 
-* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys10-4.ipynb
-* MNIST: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys10-5.ipynb
+* MLP: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-4.ipynb
+* MNIST: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/mlphys09-5.ipynb
 
 ## 참고자료
 * pytorch: https://pytorch.org/

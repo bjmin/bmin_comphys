@@ -2,6 +2,8 @@
 
 * Monte Carlo Integration : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-1.ipynb
 * Monte Carlo Simulations : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/comphys09-2.ipynb
+* Ising Model : https://github.com/bjmin/bmin_comphys/blob/master/cp/cp09/ising_tutorials.ipynb
+
 
 ## 참고자료
 * https://en.wikipedia.org/wiki/Monte_Carlo_method
