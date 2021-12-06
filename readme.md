@@ -19,8 +19,7 @@ pytorch(혹은 keras), scikit-learn과 같은 라이버러리를 적극 이용�
 8. 여덟 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml08/class.md (nn: perceptrons)
 9. 아홉 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml09/class.md (dnn w/pytorch)
 10. 열 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml10/class.md (cnn)
-11. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/class.md (Boltzmann machine)
-12. 열두 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml12/class.md (outro)
+12. 열한 번째 강의 https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/class.md (outro)
 
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
