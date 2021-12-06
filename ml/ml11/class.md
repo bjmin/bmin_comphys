@@ -1,6 +1,6 @@
 # 열한 번째 강의
 
-* Final: https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/mlphys11-1.ipynb
+* Final (12/21 자정) : https://github.com/bjmin/bmin_comphys/blob/master/ml/ml11/mlphys11-1.ipynb
 
 # 
 
