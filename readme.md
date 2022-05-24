@@ -24,5 +24,6 @@ pytorch(혹은 keras), scikit-learn과 같은 라이버러리를 적극 이용�
 
 * 과제 https://github.com/bjmin/bmin_comphys/blob/master/homework21/homework.md 
 * logistic map https://github.com/bjmin/bmin_comphys/blob/master/nonlinear/logistic_map.ipynb 
+* driven damped pendumlum https://github.com/bjmin/bmin_comphys/blob/master/nonlinear/ddp.ipynb 
 
 
